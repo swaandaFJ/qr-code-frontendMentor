@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/desktop-screenshot.png)
 ![](./screenshots/mobile-screenshot.png)
+![](./screenshots/desktop-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend solution](https://your-solution-url.com)
+- Live Site URL: [Live URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -65,7 +65,10 @@ In future projects, I want to explore:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Live Website - [Website name](https://www.your-site.com)
 - Frontend Mentor - [@swaandaFJ](https://www.frontendmentor.io/profile/swaandaFJ)
 - Twitter - [@swaan_dagwi](https://www.twitter.com/swaan_dagwi)
 - Instagram - [@swaandagwi](https://www.instagram.com/swaandagwi)
+
+---
+*[Swaandagwi Feng Jah]*
