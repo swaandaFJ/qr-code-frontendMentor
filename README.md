@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend solution](https://your-solution-url.com)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- ✅ Solution URL: [FrontendMentor solution](https://www.frontendmentor.io/solutions/qr-code-component-layout-using-html-and-css-yZrwvr_Fs5)
+- 🌐 Live Site URL: [View Website](https://swaandafj.github.io/qr-code-frontendMentor/)
 
 ## My process
 
@@ -65,7 +65,7 @@ In future projects, I want to explore:
 
 ## Author
 
-- Live Website - [Website name](https://www.your-site.com)
+- 🌐 [View Website](https://swaandafj.github.io/qr-code-frontendMentor/)
 - Frontend Mentor - [@swaandaFJ](https://www.frontendmentor.io/profile/swaandaFJ)
 - Twitter - [@swaan_dagwi](https://www.twitter.com/swaan_dagwi)
 - Instagram - [@swaandagwi](https://www.instagram.com/swaandagwi)
