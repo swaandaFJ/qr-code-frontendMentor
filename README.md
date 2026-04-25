@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/desktop-screenshot.png)
 ![](./screenshots/mobile-screenshot.png)
+![](./screenshots/desktop-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- ✅ Solution URL: [FrontendMentor solution](https://www.frontendmentor.io/solutions/qr-code-component-layout-using-html-and-css-yZrwvr_Fs5)
+- 🌐 Live Site URL: [View Website](https://swaandafj.github.io/qr-code-frontendMentor/)
 
 ## My process
 
@@ -65,7 +65,10 @@ In future projects, I want to explore:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- 🌐 [View Website](https://swaandafj.github.io/qr-code-frontendMentor/)
 - Frontend Mentor - [@swaandaFJ](https://www.frontendmentor.io/profile/swaandaFJ)
 - Twitter - [@swaan_dagwi](https://www.twitter.com/swaan_dagwi)
 - Instagram - [@swaandagwi](https://www.instagram.com/swaandagwi)
+
+---
+*[Swaandagwi Feng Jah]*
