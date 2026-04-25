@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Rubik+Storm&display=swap');
+
+/* variables */
+:root {
+    --white: hsl(0, 0%, 100%);
+    --slate300: hsl(212, 45%, 89%);
+    --slate500: hsl(216, 15%, 48%);
+    --slate700: hsl(228, 45%, 44%);
+    --slate900: hsl(218, 44%, 22%);
+}
+
+/* global */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+    background: var(--slate300);
+    font-size: 15px;
+    line-height: 1.3;
+}
+
+.container {
+    max-width: 1440px;
+    margin: auto;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 7px;
+    margin-bottom: 13px; 
+}
+
+/* card */
+.card {
+    background: var(--white);
+    margin: auto;
+    width: 230px;
+    padding: 11px 11px 27px;
+    border-radius: 13px;
+    text-align: center;
+    box-shadow: 7px 9px 25px 2px #bbb;
+}
+
+/* card message */
+.card-message {
+    margin: auto 9px 7px;
+}
+
+.card-message h1 {
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: var(--slate900);
+}
+
+.card p.small {
+    font-weight: 400;
+    /* opacity: 50%; */
+    color: var(--slate500);
+    font-size: 11px;
+}
+
+/* footer/attribution */
+.attribution {
+    bottom: 2px;
+    font-size: 0.7rem;
+    letter-spacing: 0.3875px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 0 2px;
+}
+
+.attribution a {
+    font-weight: bolder;
+    color: var(--slate700);
+    text-decoration: none;
+}
+.attribution a:hover {
+    text-decoration: underline;
+}
+
+/* media queries */
+@media(max-width: 320px) {
+   .container{
+      padding: 0 auto;
+   }
+}
